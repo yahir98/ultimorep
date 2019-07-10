@@ -1,3 +1,3 @@
-CREATE SCHEMA `examen` ;
-CREATE USER 'examen'@'127.0.0.1' IDENTIFIED BY 'essenHypB4nk';
-GRANT ALL ON examen.* TO 'examen'@'127.0.0.1';
+CREATE SCHEMA `examen2` ;
+CREATE USER 'examen2'@'127.0.0.1' IDENTIFIED BY 'repaso';
+GRANT ALL ON examen2.* TO 'examen2'@'127.0.0.1';
